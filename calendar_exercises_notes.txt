@@ -1,0 +1,9 @@
+calendar module in python can be used to print
+calendar years. You can reead the python doc to
+find different modules and how to use them. 
+
+You can also print calendar in different world
+languages, if they are supported by python.
+
+FInally, you can print specific months and change
+first weedays when calling the textcalendar function

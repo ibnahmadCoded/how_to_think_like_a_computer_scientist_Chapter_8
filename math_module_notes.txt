@@ -1,0 +1,20 @@
+The math module in python has 50 functions
+
+math.ceil returns an integer greater than the
+argument (float). If not x.0, it returns the 
+next integer after x, else it returns x. 
+
+math.floor does the same as math.ceil, but it
+returns the previous integer lower than x, if
+not x.0. Else it returns x. 
+
+To compute square roots before now, we have been use the Newton's approximation 
+formulae, whereby each iteration of the calc
+brings us closer to the sqrt value, until we
+have reached a threshold difference btw our
+guessed qrt and the current calculation.
+
+there are five data constansts in the current
+python version, and they are pi, e, inf, nan
+and tau.
+
